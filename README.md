@@ -1,4 +1,4 @@
-# CVDS_Lab5.1
+# LAB 5.1: Aplicación
 ## Integrantes
 * Juan David Contreras Becerra
 * Ana Maria Duran Burgos
